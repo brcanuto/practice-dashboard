@@ -1,0 +1,12 @@
+[
+  { "sessionId": "sess-001", "confidence": 0.94, "status": "Completed", "timeStart": 1792265520000, "timeEnd": 1792265705000, "latency": 640 },
+  { "sessionId": "sess-002", "confidence": 0.97, "status": "Completed", "timeStart": 1792266420000, "timeEnd": 1792266562000, "latency": 520 },
+  { "sessionId": "sess-003", "confidence": 0.41, "status": "Failed", "timeStart": 1792267020000, "timeEnd": 1792267080000, "latency": 2850 },
+  { "sessionId": "sess-004", "confidence": 0.58, "status": "Intervened", "timeStart": 1792267920000, "timeEnd": 1792268018000, "latency": 1320 },
+  { "sessionId": "sess-005", "confidence": 0.89, "status": "Completed", "timeStart": 1792268520000, "timeEnd": 1792268721000, "latency": 710 },
+  { "sessionId": "sess-006", "confidence": 0.33, "status": "Failed", "timeStart": 1792269420000, "timeEnd": 1792269480000, "latency": 3400 },
+  { "sessionId": "sess-007", "confidence": 0.92, "status": "Completed", "timeStart": 1792270320000, "timeEnd": 1792270477000, "latency": 580 },
+  { "sessionId": "sess-008", "confidence": 0.52, "status": "Intervened", "timeStart": 1792271220000, "timeEnd": 1792271332000, "latency": 1980 },
+  { "sessionId": "sess-009", "confidence": 0.87, "status": "Active", "timeStart": 1792271880000, "latency": 690 },
+  { "sessionId": "sess-010", "confidence": 0.95, "status": "Active", "timeStart": 1792272060000, "latency": 450 }
+]
